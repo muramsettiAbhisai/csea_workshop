@@ -39,7 +39,7 @@ public class question3{
    carAafterbrand obj1 = new carAafterbrand();
    System.out.println(obj1.getnowheels());
    System.out.println( obj1.getcolour());
-   System.out.println(obj1.getbrand());
+   System.out.println(obj1.getcolour());
   
    
  }
